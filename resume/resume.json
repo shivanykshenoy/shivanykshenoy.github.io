@@ -1,0 +1,163 @@
+{
+  "name": "Shivany Shenoy",
+  "title": "Enterprise Architecture Leader @ Starbucks",
+  "profileImage": "profileImg.jpeg",
+  "qrCode": "qr-code.png",
+  "linkedinUrl": "https://www.linkedin.com/in/shivany-shenoy-7651551/",
+  "summary": "Strategic and dynamic thought leader, with a diverse technology background spanning over 22 years across Restaurant, Retail, Supply Chain and Healthcare Industries. Instrumental in building and leading the eCommerce Platform at Panera (Panera 2.0), which received several awards, accolades and mentions in industry-leading omni-channel architecture including Gartner's L2 in 2018 and 2019 Digital IQ Gifted ranking. Principal Enterprise Architect at Starbucks for the past 6 years, leading digital transformation and mission-critical initiatives. Being a technology enthusiast at heart, I love to innovate and stay very involved in solving tough problems and helping the team evolve towards changing business strategy. Recipient of the team Spirit of Starbucks award and Bravo awards.",
+  "skills": [
+    "Team Leadership",
+    "Enterprise Architecture",
+    "Software Engineering",
+    "Software Architecture",
+    "Business Strategy",
+    "Change Management"
+  ],
+  "education": [
+    {
+      "institution": "University of Missouri, St. Louis",
+      "degree": "Bachelor of Science",
+      "field": "Electrical Engineering",
+      "years": "2000 - 2004"
+    },
+    {
+      "institution": "Washington University (Joint Program), St. Louis",
+      "field": "Electrical Engineering",
+      "years": "2002 - 2004"
+    }
+  ],
+  "volunteering": [
+    "Mercer Island High School Water Polo Team, 2023 - present",
+    "Starbucks - SIX, Hackweek, Techtoberfest, 2022 - present",
+    "Launch Code - Lead Instructor 2019 - 2020",
+    "Junior Achievement of Greater St. Louis, 2014 - 2020"
+  ],
+  "awards": [
+    "Panera Hackathon Winning Team 2015, 2017, 2019",
+    "Best Nutrition Hack - PickHacks, Rolla",
+    "Team Spirit of Starbucks Award - 2023, Bravo Award - 2024, 2025"
+  ],
+  "publicSpeaking": [
+    "Starbucks SIX and Hackweek - 2022 - Present",
+    "Adobe Summit, How Panera Re-Imagined Digital Ordering - 2020",
+    "PickHacks, Rolla - Workshop on AWS Lambda w/ Alexa - 2019"
+  ],
+  "experience": [
+    {
+      "title": "Principal Enterprise Architect",
+      "company": "Starbucks",
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/d/d3/Starbucks_Corporation_Logo_2011.svg",
+      "location": "Seattle, WA",
+      "dates": "April 2020 - Present",
+      "bullets": [
+        "Led architecture for Starbucks Mobile & Web Applications which bring roughly $17B+ in annual digital sales revenue.",
+        "Initially helped design and guide the next-generation Point of Sale (OWS) platform, show-cased at Investor Day 2022.",
+        "Partnered across digital, marketing, and retail engineering teams to accelerate and modernize systems for personalization, loyalty, and campaign automation.",
+        "Helped migrate legacy MarTech and Content Management systems to the Adobe Experience Cloud.",
+        "Led Architecture, design and initial launch of the Starbucks Alumni Community, a social network for former Starbucks partners.",
+        "Onboarded SAP LeanIX to uplift Starbucks Enterprise Architecture practice and streamline App Rationalization, with integrations into ServiceNow & Collibra.",
+        "Co-led the Starbucks Technology Hackathon each year, most recently Gen AI focused, fostering innovation and mentorship across global teams.",
+        "Led the Architecture and design of a brand new Starbucks Merchandise site utilizing the Shopify platform.",
+        "Partnered with Leadership and Global Cyber Security to push for wider adoption of Gen AI technologies.",
+        "Strategic advisor to VP-level leadership, translating architecture strategy into actionable product and engineering roadmaps."
+      ]
+    },
+    {
+      "title": "Senior Manager, eCommerce Architecture",
+      "company": "Panera Bread",
+      "logo": "motherBread.jpg",
+      "location": "St. Louis, MO",
+      "dates": "Aug 2017 - Apr 2020",
+      "bullets": [
+        "Evangelize developer productivity, best practices, and solutions.",
+        "Drive Solution Architecture.",
+        "Involved in design, architecture, and development of our owned eCommerce Delivery Platform from the ground up including data architecture, service API design, and core UI design.",
+        "Organized annual Panera Hackathon, coordinating Vendor Participation and social media promotion.",
+        "Core knowledge of Content Management Systems and eCommerce integration best practices. Mentored new developers and helped onboard them effectively.",
+        "Excelled in leading projects with aggressive deadlines and limited resources, being completely hands-on or hands-off as the situation required."
+      ]
+    },
+    {
+      "title": "Senior Manager, Sr Tech Lead",
+      "company": "Panera Bread",
+      "logo": "motherBread.jpg",
+      "location": "St. Louis, MO",
+      "dates": "Mar 2015 - Aug 2017",
+      "bullets": [
+        "Managed a group of talented engineers, taking Panera's eCommerce platform to the next level.",
+        "Drive transaction growth, improve customer experience and overall performance.",
+        "Reduce maintenance and support costs of our Online Retail eCommerce Channel.",
+        "Evolved overall development, coding best practices, and testing standards to accommodate the high degree of growth at Panera.",
+        "Nurtured, guided, and mentored developers to reach the next level.",
+        "Reached across teams to solve problems and succeed in meeting business goals.",
+        "Continually evaluated newer technologies to improve software development process and workflows."
+      ]
+    },
+    {
+      "title": "Tech Lead",
+      "company": "Panera Bread",
+      "logo": "motherBread.jpg",
+      "location": "St. Louis, MO",
+      "dates": "Jun 2013 - Mar 2015",
+      "bullets": [
+        "At the inception of Panera 2.0, managed a large group of associates to quickly deliver products from inception to scale in production.",
+        "Worked closely with the development team and product owner to ensure team members had appropriate product and technical specifications to deliver successfully.",
+        "Demonstrated leadership and collaborated cross-functionally to solve problems and define the overall product vision.",
+        "Worked with other leads, business analysts, architects and developers to elevate the craft of product development.",
+        "Mentored team members, enabling them to challenge themselves with new tools, languages, and problem-solving objectives."
+      ]
+    },
+    {
+      "title": "Sr. Developer",
+      "company": "World Wide Technology",
+      "logo": "wwtLogo.jpg",
+      "location": "St. Louis, MO",
+      "dates": "Jun 2011 - Jun 2013",
+      "bullets": [
+        "Functioned as lead resource on medium to large-scale projects.",
+        "Drove requirements, development, technical design and documentation for custom applications.",
+        "Ensured key project deliverables were completed on-time and met or exceeded customer expectations.",
+        "Mentored both Jr. and Sr. developers on the project team.",
+        "Provided on-call support and resolved all issues in a timely manner.",
+        "Built prototypes to prove out different approaches, technologies, and frameworks in the web and mobile space."
+      ]
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "company": "Enterprise Rent-a-Car",
+      "logo": "eracLogo.jpg",
+      "location": "St. Louis, MO",
+      "dates": "Jul 2007 - Jun 2011",
+      "bullets": [
+        "Analyzed, designed, developed, tested, maintained and documented software applications.",
+        "Worked with counterparts to assess business requirements and translate into code.",
+        "Mentored less experienced developers.",
+        "Provided production support, analyzed and resolved problems as they related to our systems.",
+        "Available for after-hours activities such as deployments and implementations on evenings and weekends."
+      ]
+    },
+    {
+      "title": "Application Developer",
+      "company": "Wells Fargo",
+      "logo": "wellsfargo.svg.png",
+      "location": "St. Louis, MO",
+      "dates": "Aug 2005 - Jul 2007",
+      "bullets": [
+        "Worked within a Development Team responsible for building, deploying and maintaining custom Web Applications running on the proprietary Financial Advisor Workstation.",
+        "Led Software Architecture for new Web Applications utilizing latest technologies.",
+        "Involved in Production Support, troubleshooting issues during on-call."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Cerner Corporation",
+      "logo": "OC-logo.png",
+      "location": "Kansas City, MO",
+      "dates": "Aug 2004 - 2005",
+      "bullets": [
+        "Mastered core concepts of Java, J2EE, RDBMS and Business Objects.",
+        "Built Java-based multi-tier web applications for managing clinical trials and patient lists for clinics and hospitals that had adopted the Cerner Technology Platform."
+      ]
+    }
+  ]
+}

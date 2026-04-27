@@ -3,322 +3,145 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My Resume</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <title>Shivany Shenoy &mdash; Resume</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <style>
+      .sidebar {
+        background: linear-gradient(180deg, #1a2332 0%, #1e2d3d 100%);
+        color: #cbd5e1;
+        min-height: 100vh;
+      }
+      .sidebar h5, .sidebar h6 { color: #7db8f7; letter-spacing: 0.04em; font-size: 0.8rem; }
+      .sidebar hr { border-color: #2d4a6b; opacity: 1; }
+      .sidebar ul { font-size: 0.85rem; }
+      .sidebar ul li { padding: 2px 0; }
+      .company-logo { width: 38px; height: 38px; object-fit: contain; }
+      .card-body > hr:last-child { display: none; }
+      @media print {
+        .sidebar {
+          background: #f8fafc !important;
+          color: #1e293b !important;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+        .sidebar h5, .sidebar h6 { color: #1d4ed8 !important; }
+        .sidebar hr { border-color: #cbd5e1 !important; }
+      }
+    </style>
   </head>
   <body>
-    <hr>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-3">
-          <div class="card">
-            <div class="card-body p-3 text-white bg-secondary border border-secondary rounded-3">
-              <div class="text-center">
-                <img src="profileImg.jpeg" 
-                class="img-thumbnail rounded" style="width:60%;" alt="Profile Image">
-              </div>
-              <hr>
-              <h5>SKILLS</h5>
-              <hr>
-              <ul>
-                <li>Team Leadership</li>
-                <li>Enterprise Architecture</li>
-                <li>Software Engineering</li>
-                <li>Software Architecture</li>
-                <li>Business Strategy</li>
-                <li>Change Management</li>
-              </ul>
-              <br>
-              <h6>EDUCATION</h6>
-              <hr>
-              <ul>
-                <li>
-                  <h6>University of Missouri, St. Louis</h6>
-                      Bachelor of Science<br>
-                      Electrical Engineering<br>
-                      2000 - 2004
-                </li>
-                <li>
-                  <h6>Washington University (Joint Program), St. Louis</h6>
-                      Electrical Engineering<br>
-                      2002 - 2004
-                </li>
-              </ul>
-              <br>
-              <h6>VOLUNTEERING</h6>
-              <hr>
-              <ul>
-                <li>Mercer Island High School Water Polo Team, 2023 - present</li>           
-                <li>Starbucks - SIX, Hackweek, Techtoberfest, 2022 - present</li>
-                <li>Launch Code - Lead Instructor 2019 - 2020</li>
-                <li>Junior Achievement of Greater St. Louis, 2014 - 2020</li>
-              </ul>
-              <br>
-              <h6>AWARDS</h6>
-              <hr>
-              <ul>
-                <li>Panera Hackathon Winning Team 2015, 2017, 2019</li>
-                <li>Best Nutrition Hack -  PickHacks, Rolla </li>
-                <li>Team Spirit of Starbucks Award - 2023, Bravo Award - 2024,2025</li>
-              </ul>
-              <br>
-              <br>
-              <br>
-              <hr>
-              <h6>PUBLIC SPEAKING</h6>
-              <hr>
-              <ul>
-                <li>Starbucks SIX and Hackweek - 2022 - Present </li>
-                <li>Adobe Summit, How Panera Re-Imagined Digital Ordering - 2020</li>
-                <li>PickHacks, Rolla - Workshop on AWS Lambda w/ Alexa - 2019</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-9">
-          <div class="row">
-            <div class="col-10">
-              <h1>Shivany Shenoy</h1>
-              <h3 class="text-primary">Enterprise Architecture Leader @ Starbucks</h3>
-            </div>
-            <div class="col-2">
-              <img src="qr-code.png" 
-              class="img-thumbnail" style="width:80%;" alt="Linkedin">
-            </div>
-          </div>
-          <br>
-          <div class="card">
-            <div class="card-body">
-              <h4>SUMMARY</h4>
-              <hr>
-              Strategic and dynamic thought leader, with a diverse technology background spanning over 22 years across Restaurant, Retail, Supply Chain and Healthcare Industries. 
-              Instrumental in building and leading the eCommerce Platform at Panera (Panera 2.0), which received several awards, accolades and mentions in industry-leading omni-channel architecture including Gartner’s L2 in 2018 and 2019 Digital IQ “Gifted” ranking. 
-              Principal Enterprise Architect at Starbucks for the past 6 years, leading digital transformation and mission-critical initiatives. Being a technology enthusiast at heart, I love to innovate and stay very involved in solving tough problems and helping the team evolve towards changing business strategy.  Recipient of the team Spirit of Starbucks award and Bravo awards.
-            </div>
-          </div>
-            <br>
-          <div class="card">
-            <div class="card-body">
-              <h4>EXPERIENCE</h4>
-              <hr>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="https://upload.wikimedia.org/wikipedia/sco/d/d3/Starbucks_Corporation_Logo_2011.svg" 
-                  style="width:80%;"> 
-                </div>
-                <div class="col-8">
-                  <h5>Principal Enterprise Architect</h5>
-                  <h5 class="text-success">
-                    Starbucks</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>Seattle, WA</h6>
-                  <h6>April 2020 - Present</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Led architecture for Starbucks Mobile & Web Applications which bring roughly 17b+ in annual digital sales revenue.</li>  
-                    <li>Initially helped design and guide the next-generation Point of Sale (OWS) platform, show-cased at Investor Day 2022.</li>
-                    <li>Partnered across digital, marketing, and retail engineering teams to accelerate and modernize systems for personalization, loyalty, and campaign automation.</li>
-                    <li>Helped migrate legacy MarTech and Content Management systems to the Adobe Experience Cloud.</li>
-                    <li>Led Architecture, design and initial launch of the Starbucks Alumni Community, a social network for former Starbucks partners.</li>
-                    <li>Onboarded SAP LeanIX to Uplift Starbucks Enterprise Architecture practice and streamline App Rationalization, with integrations into Service Now & Collibra.</li>
-                    <li>Co-led the Starbucks Technology Hackathon, each year, most recently Gen AI focused, fostering innovation and mentorship across global teams.</li>
-                    <li>Led the Architecture and design of a brand new Starbucks Merchandise site utilizing the Shopify platform.</li>
-                    <li>Partnered with Leadership and Global Cyber Security to push for wider adoption of Gen AI technologies.</li>
-                    <li>Strategic advisor to VP-level leadership, translating architecture strategy into actionable product and engineering roadmaps.</li>
-                  </ul>
-                </div>
-              </div>
-              <hr>
-              <div class="row">
-                <div class="col-1 text-end align-items-center">
-                  <img src="motherBread.jpg"
-                    style="width:90%;margin-left:1%;"> 
-                </div>
-                <div class="col-8">
-                  <h5>Senior Manager, eCommerce Architecture</h5>
-                  <h5 class="text-success">Panera Bread</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>St. Louis, MO</h6>
-                  <h6>Aug 2017 -Apr 2020</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Evangelize developer productivity, best practices, solutions.</li>
-                    <li>Drive Solution Architecture.</li>
-                    <li>Involved in design, architecture, development of our owned eCommerce Delivery Platform from the ground up including but not limited to: data architecture, service API design, core UI design.</li>
-                    <li>Involved in organizing our annual Panera Hackathon, subsequent Vendor Participation and social media promotion.</li>
-                    <li>Core Knowledge of Content Management Systems, eCommerce integration, best practices. Ability to mentor new developers and help bring them up to speed.</li>
-                    <li>Excelled in leading projects with aggressive deadlines, limited resources and being completely hands on or hands off with respect to any aspect of a given project.</li>
-                  </ul>
-                </div>
-              </div>
-              <br>
-              <br>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="motherBread.jpg"
-                    style="width:90%"> 
-                </div>
-                <div class="col-8">
-                  <h5>Senior Manager, Sr Tech Lead</h5>
-                  <h5 class="text-success">Panera Bread</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>St. Louis, MO</h6>
-                  <h6>Mar 2015 -Aug 2017</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Manage a group of talented folks, taking Panera's eCommerce platform to the next level. </li>
-                    <li>Drive transaction growth, improve customer experience and overall performance. </li>
-                    <li>Reduce maintenance and support costs of our Online Retail eCommerce Channel.</li>
-                    <li>Evolve our overall development, coding best practices, testing standards and strategy to accommodate the high degree of growth we have at Panera.</li>
-                    <li>Nurture, guide and mentor developers to reach the next level.</li>
-                    <li>Reach across teams to solve problems and succeed in meeting business goals.</li>
-                    <li>Continually evaluate newer technologies to improve our software development process and workflows.</li>
-                  </ul>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="motherBread.jpg"
-                    style="width:90%"> 
-                </div>
-                <div class="col-8">
-                  <h5>Tech Lead</h5>
-                  <h5 class="text-success">Panera Bread</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>St. Louis, MO</h6>
-                  <h6>Jun 2013 -Mar 2015</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>At the inception of Panera 2.0, managed a large group of associates to quickly deliver products from inception to scale in production.</li>
-                    <li>Working closely with the development team and product owner to ensure the team members have appropriate product, technical specifications and direction in order to deliver successfully and remain on target to meet deadlines.</li>
-                    <li>Demonstrate leadership and collaborate cross-functionally in order to solve problems and define the overall product vision.</li>
-                    <li>Working with other leads, business analysts, architects and developers to gain a deeper understanding of best practices and in elevating the craft of product development.</li>
-                    <li>Mentoring team members. Enabling them to challenge themselves with new tools, languages, and problem-solving objectives.</li>
-                  </ul>
-                </div>
-              </div>
-              <hr>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="wwtLogo.jpg" 
-                  style="width:100%"> 
-                </div>
-                <div class="col-8">
-                  <h5>Sr. Developer</h5>
-                  <h5 class="text-success">World Wide Technology</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>St. Louis, MO</h6>
-                  <h6>Jun 2011 - Jun 2013</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Function as a lead resource on medium to large-scale projects.</li>
-                    <li>Drive requirements, development, technical design and documentation for custom applications.</li> 
-                    <li>Ensure key project deliverables are completed on-time and meet or exceed customer expectations.</li>
-                    <li>Mentor and assist other developers, including both Jr. and Sr. developers on the project team.</li>
-                    <li>Provide on-call support and resolve all issues in a timely manner.</li>
-                    <li>Work with team members to build prototypes and prove out different approaches, technologies or frameworks in the web and mobile space.</li>
-                  </ul>
-                </div>
-              </div>
-              <hr>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="eracLogo.jpg" 
-                  style="width:100%"> 
-                </div>
-                <div class="col-8">
-                  <h5>Sr. Software Engineer</h5>
-                  <h5 class="text-success">Enterprise Rent-a-Car</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>St. Louis, MO</h6>
-                  <h6>Jul 2007 - Jun 2011</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Analyze, Design, Develop, Test, Maintain and Document software applications.</li> 
-                    <li>Work with counterparts to assess business requirements and translate into code.</li>
-                    <li>Mentor less experienced developers.</li>
-                    <li>Provide production support, analyze and resolve problems as they relate to our systems.</li>
-                    <li>Be available for after-hours activities such as deployments and implementations that may occur on evenings and weekends.</li>                  
-                  </ul>
-                </div>
-              </div>
-              <hr>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="wellsfargo.svg.png" 
-                  style="width:90%"> 
-                </div>
-                <div class="col-8">
-                  <h5>Application Developer</h5>
-                  <h5 class="text-success">Wells Fargo</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>St. Louis, MO</h6>
-                  <h6>Aug 2005 -Jul 2007</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Worked within a Development Team responsible for building, deploying and maintaining custom Web Applications running on the proprietary Financial Advisor Workstation.</li>                  
-                    <li>Led Software Architecture for new Web Applications utilizing latest technologies.</li>
-                    <li>Involved in Production Support, troubleshooting issues during on-call.</li>
-                  </ul>
-                </div>
-              </div>
-              <hr>
-              <div class="row">
-                <div class="col-1 text-end">
-                  <img src="OC-logo.png"
-                   style="width:100%">
-                </div>
-                <div class="col-8">
-                  <h5>Software Engineer</h5>
-                  <h5 class="text-success">Cerner Corporation</h5>
-                </div>
-                <div class="col-3 text-end">
-                  <h6>Kansas City, MO</h6>
-                  <h6>Aug 2004-2005</h6>                  
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <ul>
-                    <li>Mastered core concepts of Java, J2EE, RDBMS and Business Objects.</li>
-                    <li>Built Java-based multi-tier web applications for managing clinical trials and patient lists for clinics and hospitals that had adopted the Cerner Technology Platform.</li>                  
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
+
+    <div id="app">
+      <div class="d-flex justify-content-center align-items-center" style="min-height:100vh;">
+        <div class="spinner-border text-secondary" role="status">
+          <span class="visually-hidden">Loading&hellip;</span>
         </div>
       </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
+    <script id="resume-template" type="text/x-mustache">
+    <div class="container-fluid g-0">
+      <div class="row g-0">
+
+        <!-- Sidebar -->
+        <div class="col-md-3 sidebar p-4">
+          <div class="text-center mb-3">
+            <img src="{{profileImage}}" class="img-fluid rounded-circle border border-secondary" style="max-width:65%;" alt="Profile photo">
+          </div>
+          <hr>
+          <h5 class="text-uppercase mb-2">Skills</h5>
+          <ul class="list-unstyled mb-3">
+            {{#skills}}<li>&#10003;&nbsp;{{.}}</li>{{/skills}}
+          </ul>
+          <hr>
+          <h6 class="text-uppercase mb-2">Education</h6>
+          <ul class="list-unstyled mb-3">
+            {{#education}}
+            <li class="mb-3">
+              <strong class="d-block" style="font-size:0.82rem;">{{institution}}</strong>
+              {{#degree}}<span class="d-block">{{degree}}</span>{{/degree}}
+              <span class="d-block">{{field}}</span>
+              <small class="text-secondary">{{years}}</small>
+            </li>
+            {{/education}}
+          </ul>
+          <hr>
+          <h6 class="text-uppercase mb-2">Volunteering</h6>
+          <ul class="list-unstyled mb-3">
+            {{#volunteering}}<li class="mb-1">{{.}}</li>{{/volunteering}}
+          </ul>
+          <hr>
+          <h6 class="text-uppercase mb-2">Awards</h6>
+          <ul class="list-unstyled mb-3">
+            {{#awards}}<li class="mb-1">{{.}}</li>{{/awards}}
+          </ul>
+          <hr>
+          <h6 class="text-uppercase mb-2">Public Speaking</h6>
+          <ul class="list-unstyled mb-0">
+            {{#publicSpeaking}}<li class="mb-1">{{.}}</li>{{/publicSpeaking}}
+          </ul>
+        </div>
+
+        <!-- Main Content -->
+        <div class="col-md-9 p-4">
+          <div class="d-flex align-items-start justify-content-between mb-3 flex-wrap gap-3">
+            <div>
+              <h1 class="fw-bold mb-0">{{name}}</h1>
+              <h4 class="text-primary mt-1 mb-0">{{title}}</h4>
+            </div>
+            <a href="{{linkedinUrl}}" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+              <img src="{{qrCode}}" class="img-thumbnail" style="width:85px;" alt="LinkedIn QR Code">
+            </a>
+          </div>
+
+          <div class="card border-0 shadow-sm mb-4">
+            <div class="card-body">
+              <h4 class="fw-semibold mb-1">Summary</h4>
+              <hr class="mt-1 mb-3">
+              <p class="mb-0">{{summary}}</p>
+            </div>
+          </div>
+
+          <div class="card border-0 shadow-sm">
+            <div class="card-body">
+              <h4 class="fw-semibold mb-1">Experience</h4>
+              <hr class="mt-1 mb-3">
+              {{#experience}}
+              <div class="mb-3">
+                <div class="d-flex align-items-center gap-3 mb-2 flex-wrap">
+                  <img src="{{logo}}" class="company-logo flex-shrink-0" alt="{{company}} logo">
+                  <div class="flex-grow-1">
+                    <h5 class="mb-0">{{title}}</h5>
+                    <h6 class="text-success mb-0">{{company}}</h6>
+                  </div>
+                  <div class="text-end flex-shrink-0">
+                    <small class="text-muted d-block">{{location}}</small>
+                    <small class="text-muted d-block">{{dates}}</small>
+                  </div>
+                </div>
+                <ul class="mb-0 ps-3">
+                  {{#bullets}}<li class="mb-1">{{.}}</li>{{/bullets}}
+                </ul>
+              </div>
+              <hr>
+              {{/experience}}
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/mustache@4.2.0/mustache.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      fetch('resume.json')
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          var tpl = document.getElementById('resume-template').innerHTML;
+          document.getElementById('app').innerHTML = Mustache.render(tpl, data);
+        });
+    </script>
   </body>
 </html>

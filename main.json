@@ -1,0 +1,100 @@
+{
+  "name": "Shivany K. Shenoy",
+  "tagline": "Driven technical leader, Manager, Architect. Knowledgeable in full life-cycle, enterprise software systems.",
+  "about": "I love to build meaningful solutions; solve problems! Also, to help others learn about technology and show them how to apply it to their day-to-day lives.",
+  "linkedinUrl": "https://www.linkedin.com/in/shivany-shenoy-7651551/",
+  "resumeUrl": "resume/v1.html",
+  "cards": [
+    {
+      "url": "https://www.starbucks.com",
+      "image": "https://shivanykshenoy.github.io/starbucks-hq.png?v=1",
+      "target": "_blank",
+      "text": "Currently work as the Principal Enterprise Architect in Starbucks Technology, based in Seattle, WA"
+    },
+    {
+      "url": "https://alumni.starbucks.com/",
+      "image": "https://shivanykshenoy.github.io/sbux-alumni.png?v=1",
+      "target": "_blank",
+      "text": "Helped Lead and Architect the Starbucks Alumni Community Platform - launched in Sept 2021!"
+    },
+    {
+      "url": "https://www.panerabread.com",
+      "image": "https://www.panerabread.com/foundation/panerabread/menu/delivery-categories/salads.png.transform/foundation-retail-menu-category-desktop-2x/image.20191111.png",
+      "target": "_blank",
+      "text": "Prior to Starbucks, I worked for Panera Bread, based in St. Louis, as one of the core members of the award-winning Panera 2.0 Foundation eCommerce Platform"
+    },
+    {
+      "url": "https://business.adobe.com/summit/2020/panera-reimagined-ordering-experiences-with-adobe-target.html",
+      "image": "https://images-tv.adobe.com/mpcv3/b8f920e0-0298-4d82-9ec3-c17d4c9ceda9/1affcb24-1dc5-475b-a7c6-b06d03dba189/bb7576652a554f1cbac22cf4b937731b_1585010315-960x540.jpg",
+      "target": "_blank",
+      "text": "Presented at Adobe Conference re: How Panera Reimagined Its Digital Ordering Experience with Adobe Target"
+    },
+    {
+      "url": "https://www.cnet.com/news/google-assistant-transactions/",
+      "image": "https://shivanykshenoy.github.io/Google-io.png?v=1",
+      "target": "_blank",
+      "text": "Led the team that built the Google Transactions POC for Panera, which was featured on stage at Google I/O in 2017"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/20140726120124-3348221-10-ways-to-strengthen-your-team/",
+      "target": "_blank",
+      "placeholderBg": "#283E4A",
+      "placeholderText": "Ways to Strengthen Your Team!",
+      "text": "Regularly involved in Leadership and team building!"
+    },
+    {
+      "url": "https://th19.devpost.com",
+      "image": "https://shivanykshenoy.github.io/tigerhacks-2019.png?v=1",
+      "target": "_blank",
+      "text": "In 2019, helped Panera become a platinum sponsor and mentor teams at TigerHacks"
+    },
+    {
+      "url": "https://pickhacks.io/",
+      "image": "https://shivanykshenoy.github.io/pickHacks.jpeg?v=1",
+      "target": "_blank",
+      "text": "Helped sponsor pickhacks at Missouri S&T in Rolla!"
+    },
+    {
+      "url": "#",
+      "image": "https://shivanykshenoy.github.io/voice-platform.png",
+      "target": "_self",
+      "text": "Helped build and architect the Voice Ordering Platform at Panera Bread"
+    },
+    {
+      "url": "https://www.oracle.com/java/",
+      "image": "https://shivanykshenoy.github.io/java-logo.png",
+      "target": "_blank",
+      "text": "20 years of experience in Java"
+    },
+    {
+      "url": "https://www.juniorachievement.org/web/ja-usa/home",
+      "image": "https://shivanykshenoy.github.io/junior-achievement.png",
+      "target": "_blank",
+      "text": "6-year Volunteer with Junior Achievement!"
+    },
+    {
+      "url": "https://aws.amazon.com/",
+      "image": "https://shivanykshenoy.github.io/cloudComputing.png?v=1",
+      "target": "_blank",
+      "text": "Specialization in Cloud Computing and Cloud Managed Services"
+    },
+    {
+      "url": "https://www.restapitutorial.com/",
+      "image": "https://shivanykshenoy.github.io/RESTfulWebServices.png?v=1",
+      "target": "_blank",
+      "text": "15+ Years Designing and implementing RESTful Web Services, MicroService and Service Oriented Architectures"
+    },
+    {
+      "url": "https://www.improgrammer.net/most-popular-javascript-frameworks-2015/",
+      "image": "https://shivanykshenoy.github.io/JavaScriptFrameworks.jpg?v=1",
+      "target": "_blank",
+      "text": "Developer Advocate: Passionate about learning and promoting new UI/UX frameworks to enhance productivity!"
+    },
+    {
+      "url": "https://shivanykshenoy.github.io/JavaLC101",
+      "image": "https://www.launchcode.org/assets/dabomb-562825789d0850a41ddd8ef7eb0d0222d9ef99cd54594ee5e820cb6070fb9477.svg",
+      "target": "_blank",
+      "text": "I was the Lead Instructor for Java LC101 Class at Launch Code (non-profit) in 2019 and 2020!"
+    }
+  ]
+}
