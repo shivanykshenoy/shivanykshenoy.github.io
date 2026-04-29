@@ -4,14 +4,22 @@
   "profileImage": "profileImg.jpeg",
   "qrCode": "qr-code.png",
   "linkedinUrl": "https://www.linkedin.com/in/shivany-shenoy/",
-  "summary": "Strategic and dynamic thought leader, with a diverse technology background spanning over 22 years across Restaurant, Retail, Supply Chain and Healthcare Industries. Instrumental in building and leading the eCommerce Platform at Panera (Panera 2.0), which received several awards, accolades and mentions in industry-leading omni-channel architecture including Gartner's L2 in 2018 and 2019 Digital IQ Gifted ranking. Principal Enterprise Architect at Starbucks for the past 6 years, leading digital transformation and mission-critical initiatives. Being a technology enthusiast at heart, I love to innovate and stay very involved in solving tough problems and helping the team evolve towards changing business strategy. Recipient of the team Spirit of Starbucks award and Bravo awards.",
+  "summary": "Hands-on & dynamic technology leader with 22+ years of experience driving innovation across software engineering, architecture, and digital platforms. Proven success leading innovation, large-scale technology and digital commerce transformations for global brands including Starbucks Coffee Company and Panera Bread. Adept at bridging business strategy with engineering execution to deliver scalable ecosystems that power content at scale, personalization, customer engagement, and multi-billion-dollar digital revenue. Motivational speaker, known for cultivating high-performing teams, fostering innovation, and guiding enterprise-wide hackathons and modernization initiatives. Passionate about Gen AI enablement.",
   "skills": [
     "Team Leadership",
     "Enterprise Architecture",
     "Software Engineering",
     "Software Architecture",
     "Business Strategy",
-    "Change Management"
+    "Change Management",
+    "Adobe Experience Cloud",
+    "Adobe Creative Cloud",
+    "Content Supply Chain",
+    "eCommerce Platforms",
+    "Cloud Architecture",
+    "Microservices & APIs",
+    "Prompt Engineering",
+    "Vibe Coding & Gen AI"
   ],
   "education": [
     {
@@ -27,15 +35,15 @@
     }
   ],
   "volunteering": [
-    "MIHS, Swimming & Water Polo Team, 2023 - present",
-    "Starbucks - SIX, Hackweek, Techtoberfest, 2022 - present",
+    "MIHS, Swimming & Water Polo Team, 2023 - 2026",
+    "Starbucks - SIX, Hackweek, Techtoberfest, 2022 - 2026",
     "Launch Code - Lead Instructor 2019 - 2020",
     "Junior Achievement of Greater St. Louis, 2014 - 2020"
   ],
   "awards": [
+    "MongoDB Innovation Award (Panera Bread) 2017",
     "Panera Hackathon Winning Team 2015, 2017, 2019",
-    "Best Nutrition Hack - PickHacks, Rolla",
-    "Team Spirit of Starbucks Award - 2023, Bravo Award - 2024, 2025"
+    "Team Spirit of Starbucks Award - 2023, Starbucks Bravo Award - 2024, 2025"
   ],
   "publicSpeaking": [
     "Starbucks SIX and Hackweek - 2022 - Present",
