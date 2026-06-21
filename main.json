@@ -6,10 +6,16 @@
   "resumeUrl": "resume/v1.html",
   "cards": [
     {
+      "url": "https://www.adobe.com",
+      "image": "adobeLogo.png",
+      "target": "_blank",
+      "text": "Focused on Agentic AI Enablement, Content Supply Chain, and integration across Adobe's product suite, driving innovation and adoption of Adobe AI-driven solutions for Strategic Partnership Accounts."
+    },
+    {
       "url": "https://www.starbucks.com",
       "image": "https://shivanykshenoy.github.io/starbucks-hq.png?v=1",
       "target": "_blank",
-      "text": "Worked as the Principal Enterprise Architect in Starbucks Technology, based in Seattle, WA"
+      "text": "Worked as the Principal Enterprise Architect in Starbucks Technology, based in Seattle, WA focused on Customer & Retail technology."
     },
     {
       "url": "https://alumni.starbucks.com/",
@@ -89,12 +95,6 @@
       "image": "https://shivanykshenoy.github.io/JavaScriptFrameworks.jpg?v=1",
       "target": "_blank",
       "text": "Developer Advocate: Passionate about learning and promoting new UI/UX frameworks to enhance productivity!"
-    },
-    {
-      "url": "https://shivanykshenoy.github.io/JavaLC101",
-      "image": "https://www.launchcode.org/assets/dabomb-562825789d0850a41ddd8ef7eb0d0222d9ef99cd54594ee5e820cb6070fb9477.svg",
-      "target": "_blank",
-      "text": "I was the Lead Instructor for Java LC101 Class at Launch Code (non-profit) in 2019 and 2020!"
     }
   ]
 }

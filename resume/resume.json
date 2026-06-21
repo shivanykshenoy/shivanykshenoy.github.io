@@ -1,6 +1,6 @@
 {
   "name": "Shivany Shenoy",
-  "title": "Enterprise Architecture Leader | Gen AI Advocate | Digital Transformation Strategist",
+  "title": "Sr. Enterprise Architect - Strategic Partnership Accounts at Adobe",
   "profileImage": "profileImg.jpeg",
   "qrCode": "qr-code.png",
   "linkedinUrl": "https://www.linkedin.com/in/shivany-shenoy/",
@@ -52,9 +52,19 @@
   ],
   "experience": [
     {
+      "title": "Sr. Enterprise Architect - Strategic Partnership Accounts (SPA)",
+      "company": "Adobe",
+      "logo": "adobeLogo.png",
+      "location": "San Jose, CA",
+      "dates": "June 2026 - present",
+      "bullets": [
+        "Focused on Agentic AI Enablement, Content Supply Chain, and integration across Adobe's product suite, driving innovation and adoption of Adobe AI-driven solutions for Strategic Partnership Accounts."
+      ]
+    },
+    {
       "title": "Principal Enterprise Architect",
       "company": "Starbucks",
-      "logo": "https://upload.wikimedia.org/wikipedia/sco/d/d3/Starbucks_Corporation_Logo_2011.svg",
+      "logo": "starbucksLogo.svg",
       "location": "Seattle, WA",
       "dates": "April 2020 - April 2026",
       "bullets": [
